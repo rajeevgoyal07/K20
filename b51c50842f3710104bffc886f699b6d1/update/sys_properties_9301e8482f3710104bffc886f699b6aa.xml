@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>what level of logging an application will use</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_13732_k20.logging.verbosity</name>
+        <read_roles/>
+        <suffix>logging.verbosity</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-06 19:30:08</sys_created_on>
+        <sys_id>9301e8482f3710104bffc886f699b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_13732_k20.logging.verbosity</sys_name>
+        <sys_package display_value="K20" source="x_13732_k20">b51c50842f3710104bffc886f699b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K20">b51c50842f3710104bffc886f699b6d1</sys_scope>
+        <sys_update_name>sys_properties_9301e8482f3710104bffc886f699b6aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-06 19:30:08</sys_updated_on>
+        <type>string</type>
+        <value>info</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=9301e8482f3710104bffc886f699b6aa"/>
+</record_update>
