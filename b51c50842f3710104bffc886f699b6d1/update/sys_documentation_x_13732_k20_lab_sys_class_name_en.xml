@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sys_class_name" label="Class" language="en" table="x_13732_k20_lab">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <help/>
+            <hint/>
+            <label>Class</label>
+            <language>en</language>
+            <name>x_13732_k20_lab</name>
+            <plural>Class</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 19:10:06</sys_created_on>
+            <sys_id>eb9c1c842f3710104bffc886f699b608</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class</sys_name>
+            <sys_package display_value="K20" source="x_13732_k20">b51c50842f3710104bffc886f699b6d1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="K20">b51c50842f3710104bffc886f699b6d1</sys_scope>
+            <sys_update_name>sys_documentation_x_13732_k20_lab_sys_class_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 19:10:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
